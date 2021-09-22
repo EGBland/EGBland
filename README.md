@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Active projects
 * [**TRNSplitgate4J**](https://github.com/EGBland/TRNSplitgate4J), a reactive library for interacting with a Splitgate player statistics API.
 * [**FlexStudy**](https://github.com/EGBland/FlexStudy), a self-study into compilers, and into practical use for automata following my dissertation on the same topic.
-* A **currently unannounced game**, written in Lua using the Love2D engine.
+* **Two currently unannounced games**, one written in Lua using the Love2D engine and another a collaborative project using MonoGame.
 
 ### On the backburner
 * A [**translation of Project Zomboid into Esperanto**](https://github.com/EGBland/ProjectZomboidTranslations). I'll continue this when the official translation tool is improved, when I actually learn how to use said tool, or I make my own tool.
