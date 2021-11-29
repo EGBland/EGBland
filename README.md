@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Active projects
-* [**TRNSplitgate4J**](https://github.com/EGBland/TRNSplitgate4J), a reactive library for interacting with a Splitgate player statistics API.
+* [**panacea**](https://github.com/EGBland/panacea), a mod manager and modding toolkit for Ice-Pick Lodge's 2005 game [Pathologic](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/).
 * [**FlexStudy**](https://github.com/EGBland/FlexStudy), a self-study into compilers, and into practical use for automata following my dissertation on the same topic.
 * **Two currently unannounced games**, one written in Lua using the Love2D framework and another a collaborative project written in C# using the MonoGame framework.
 
