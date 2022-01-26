@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Active projects
-* [**panacea**](https://github.com/EGBland/panacea), a mod manager and modding toolkit for Ice-Pick Lodge's 2005 game [Pathologic](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/).
+* [**panacea**](https://github.com/EGBland/panacea) and [**shmowder**](https://github.com/EGBland/shmowder), a mod manager and modding toolkit for Ice-Pick Lodge's 2005 game [Pathologic](https://store.steampowered.com/app/384110/Pathologic_Classic_HD/); the former written in Python and the latter in Haskell.
 * [**FlexStudy**](https://github.com/EGBland/FlexStudy), a self-study into compilers, and into practical use for automata following my dissertation on the same topic.
+* [**Raytracer**](https://github.com/EGBland/Raytracer), a ray tracing program written as a Haskell refresher.
 * **Two currently unannounced games**, one written in Lua using the Love2D framework and another a collaborative project written in C# using the MonoGame framework.
 
 ### On the backburner
