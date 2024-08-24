@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 hiiiiiii :3
 
-i don't use github to host my code any more. check [sourcehut](https://sr.ht/~mxnaco) instead.
+i don't use github to host my code any more. check [my sourcehut projects](https://sr.ht/~mxnaco) or [my sourcehut git repos](https://git.sr.ht/~mxnaco) instead.
 
