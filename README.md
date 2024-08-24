@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 
 hiiiiiii :3
 
-look at [panacea](https://github.com/EGBland/Panacea) (and the other [panacea](https://github.com/EGBland/PanaceaHaskell)) and [fennix](https://github.com/EGBland/Fennix) even though im gonna rewrite both in rust
+i don't use github to host my code any more. check [sourcehut](https://sr.ht/~mxnaco) instead.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=EGBland&count_private=true&show_icons=true&theme=cobalt)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EGBland&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
